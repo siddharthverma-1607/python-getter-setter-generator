@@ -4,7 +4,7 @@
 This extension generates python get and set methods from the class variable declarations.
 
 ## Usage
-![how use](https://raw.githubusercontent.com/afmicc/getter-setter-generator/master/readme/v1.0.0.gif)
+![how use](https://github.com/siddharthverma-1607/python-getter-setter-generator/blob/master/readme/pyGetterSetter.gif)
 
 ## Authors
 
